@@ -40,3 +40,5 @@ HEAD-
 index-
 
 packed.refs)
+
+DONATE BTC THAKS 3QhhxbLcTPeiboRFGQFYsFtoVu9yNgWpK9
