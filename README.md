@@ -23,6 +23,7 @@ bash: ./bitcoin-mini-gen.py: Permission denied
 Address:        17mz12re1VqP5WADfk4xZeCmQzYP9S3sF3
 Privkey:        5K72LVTuyESQ2Ks4dg8WJv8YbgdJeQ3URe3JnibhkQvPznnQC3V
 Privkey (hex):  A9B32A84E4FF40D798D3DCB7E1B6F17F445CA448048CB3FDCC5C2D2C253C49AF
+
 Privkey (mini): SqKKayJXfEtY6Kf1wzDiRtx7JMQjhu
 
 DONATE BTC THAKS 3QhhxbLcTPeiboRFGQFYsFtoVu9yNgWpK9
